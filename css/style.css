@@ -788,10 +788,15 @@ textarea.input {
 #hot-deal.section {
   padding: 60px 0px;
   margin: 30px 0px;
+  color: white;
   background-color: #E4E7ED;
-  background-image: url('../img/hotdeal.png');
+  background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2014/04/05/323960/cd1770c00d1d221840bc3a431dc93ec6.jpg');
   background-position: center;
   background-repeat: no-repeat;
+}
+
+#OFF1{
+  color: white;
 }
 
 .hot-deal {
